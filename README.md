@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vasavi Gollapalli</h1>
 
 <p align="center">
-💻 Full Stack Developer | Backend Engineer <br/>
+💻 Full Stack Developer  <br/>
 🎓 Master’s in Software Engineering | San Jose State University <br/>
 📍 Based in: San Jose, California (Open to Full-Time Roles) <br/>
 </p>
