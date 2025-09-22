@@ -44,7 +44,7 @@
 - 🔍 Matches players by **sports interests, skill level, availability, and location**  
 - 💬 Built **real-time chat** with WebSockets  
 - 🔒 Added **JWT authentication** & role-based access  
-- 🌐 [Live Demo](#) | [Repo](#)  
+
 
 ---
 
@@ -52,7 +52,7 @@
 - 🛠️ **Tech**: Flask, OpenAI API, Tailwind CSS  
 - ✍️ Generates SEO-optimized blog posts given a topic + keywords  
 - 📊 Stores posts in **MySQL** with tags/categories  
-- 🌐 [Live Demo](#) | [Repo](#)  
+
 
 ---
 
@@ -61,16 +61,7 @@
 - 📈 Handles customer onboarding with **RAG (Retrieval-Augmented Generation)**  
 - ⚡ Optimized API queries with **Redis caching** (35% faster)  
 - 🔐 Role-based access & secure login with OAuth  
-- 🌐 [Live Demo](#) | [Repo](#)  
 
----
-
-**4. Real-Time Task Tracker (Team Collaboration Tool)**  
-- 🛠️ **Tech**: Next.js, Express.js, Prisma, MySQL  
-- ✅ Create/assign tasks, track completion status  
-- 🔔 Added **notifications & activity logs**  
-- 📦 Dockerized backend for easy deployment  
-- 🌐 [Live Demo](#) | [Repo](#)  
 
 ---
 
