@@ -68,7 +68,6 @@
 ### 📬 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vasavigollapalli0825)
 - 📧 Email: vasavigollapalli825@gmail.com 
-- 🌐 Portfolio: 
 
 ---
 
