@@ -21,7 +21,7 @@
 ### 🧑‍💼 Internship Experience
 
 **Full Stack Developer Intern**  
-📍 Complama Technologies Inc (Remote) | 🗓️ June 2025 – Present  
+📍 Complama Technologies Inc (Remote) | 🗓️ June 2025 – August 2025  
 - Developed a responsive **User Registration Page** using React, Spring Boot, and MySQL  
 - Integrated **OAuth authentication** (Google, Microsoft)  
 - Built **RESTful APIs** for signup, login, and validation logic  
