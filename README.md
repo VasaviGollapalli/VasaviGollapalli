@@ -39,11 +39,12 @@
 
 ### 📂 Projects  
 
-**1. Sports Buddy – Sports-Themed Dating App (Full Stack)**  
-- 🛠️ **Tech**: React, Django/Flask, PostgreSQL, AWS EC2  
-- 🔍 Matches players by **sports interests, skill level, availability, and location**  
-- 💬 Built **real-time chat** with WebSockets  
-- 🔒 Added **JWT authentication** & role-based access  
+1. Modality-Aware Twin Graphs – Microservice Anomaly Detection & Root Cause Analysis (Master’s Project)
+
+   * 🔗 GitHub: [modality_aware_twin_graphs](https://github.com/VasaviGollapalli/modality_aware_twin_graphs)
+   * 🧠 Focus: Anomaly detection and root-cause analysis in distributed microservice systems
+   * 🛠 Tech: Python, PyTorch, DGL (Graph Learning), Mixture-of-Experts, Attention-based Twin Graphs
+   * 📊 Built a modality-aware framework that uses metrics, logs, and traces to detect anomalies and identify the true failing service with high accurac
 
 
 ---
