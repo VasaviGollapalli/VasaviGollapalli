@@ -20,7 +20,7 @@
 
 ### 🧑‍💼 Internship Experience
 
-**Full Stack Developer Intern**  
+** AI Full Stack Developer Intern**  
 📍 Complama Technologies Inc (Remote) | 🗓️ June 2025 – August 2025  
 •	Built an AI-powered workspace intelligence layer using LangChain, OpenAI APIs, and Pinecone vector search — reduced document retrieval time by 60% across 50,000+ records, enabling semantic search for paying customers.
 •	Designed and shipped production RESTful APIs for authentication and workspace management integrating OAuth 2.0, MySQL, and Redis caching; improved backend response time by 35% and enabled smooth cross-team integration with QA and UX.
