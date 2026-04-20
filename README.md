@@ -22,11 +22,10 @@
 
 **Full Stack Developer Intern**  
 📍 Complama Technologies Inc (Remote) | 🗓️ June 2025 – August 2025  
-- Developed a responsive **User Registration Page** using React, Spring Boot, and MySQL  
-- Integrated **OAuth authentication** (Google, Microsoft)  
-- Built **RESTful APIs** for signup, login, and validation logic  
-- Implemented **logging mechanisms** to track successful and failed registration attempts  
-- Collaborated in an Agile environment with 2-week sprints and daily scrum meetings  
+•	Built an AI-powered workspace intelligence layer using LangChain, OpenAI APIs, and Pinecone vector search — reduced document retrieval time by 60% across 50,000+ records, enabling semantic search for paying customers.
+•	Designed and shipped production RESTful APIs for authentication and workspace management integrating OAuth 2.0, MySQL, and Redis caching; improved backend response time by 35% and enabled smooth cross-team integration with QA and UX.
+•	Implemented multi-tenant architecture with row-level RBAC policies and React route guards, ensuring strict tenant isolation and zero data-leakage incidents across API and database layers.
+•	Built full stack onboarding workflows using React, Spring Boot, and LangChain; improved workspace-creation success rate by 30% and automated CI/CD pipelines with GitHub Actions, reducing deployment cycle time by 40%.
 
 ---
 
